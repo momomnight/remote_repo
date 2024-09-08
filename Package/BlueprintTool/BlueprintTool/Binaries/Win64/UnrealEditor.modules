@@ -1,0 +1,11 @@
+{
+	"BuildId": "27405482",
+	"Modules": 
+	{
+		"BlueprintTool": "UnrealEditor-BlueprintTool.dll",
+		"BlueprintToolCode": "UnrealEditor-BlueprintToolCode.dll",
+		"BlueprintToolEditor": "UnrealEditor-BlueprintToolEditor.dll",
+		"BlueprintToolRuntime": "UnrealEditor-BlueprintToolRuntime.dll",
+		"BlueprintToolScript": "UnrealEditor-BlueprintToolScript.dll"
+	}
+}
