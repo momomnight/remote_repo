@@ -1,0 +1,1 @@
+#include "Details/SBlueprintWidget.h"
